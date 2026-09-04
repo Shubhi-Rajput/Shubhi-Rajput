@@ -12,11 +12,15 @@
 ![](https://streak-stats.demolab.com/?user=Shubhi-Rajput&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubhi-Rajput&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhi-Rajput/Shubhi-Rajput/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhi-Rajput/Shubhi-Rajput/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shubhi-Rajput/Shubhi-Rajput/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
