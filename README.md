@@ -13,9 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubhi-Rajput&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center">🐍 Contribution Snake</h2>
-! [snake gif]
-(https://github.com/Shubhi-Rajput/Shubhi-Rajput/blob/output/github-
-contribution-grid-snake.gif)
+![snake gif](https://github.com/Shubhi-Rajput/Shubhi-Rajput/blob/output/github-snake-dark.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
